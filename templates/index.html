@@ -2,9 +2,19 @@
 
 <html>
 	<head>
-		<title> Vlermanda </title>
+		<title> Vicente Lermanda's Webpage </title>
+	<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap" rel="stylesheet">	<meta charset="UTF-8"/>
+		<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='styles.css')}}">
 	</head>
 	<body>
-	Ejemplo
+		<h1> Vicente Lermanda's Webpage </h1>
+		<image src="{{ url_for('static', filename='jigg.jpg')}}">
+		<p> Me llamo Vicente Lermanda. Soy estudiante de Ingeniería Civil
+		Informática de la Universidad de Concepción. <br> Cree esta página
+				principalmente para práticar desarrollo de front-end y back-end
+				junto con el uso de cloud computing, en este caso, AWS.
+				<a href="info">page</a>
+		</p>
 	</body>
 </html>
