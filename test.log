@@ -1,320 +1,662 @@
 took %d ns
- 119.084µs
+ 420.453µs
 took %d ns
- 395.695µs
+ 203.299µs
 took %d ns
- 317.237µs
+ 159.92µs
 took %d ns
- 294.545µs
+ 223.736µs
 took %d ns
- 276.12µs
+ 384.257µs
 took %d ns
- 191.651µs
+ 467.729µs
 took %d ns
- 136.728µs
+ 368.199µs
 took %d ns
- 178.206µs
+ 378.587µs
 took %d ns
- 173.106µs
+ 356.817µs
 took %d ns
- 165.151µs
+ 622.149µs
 took %d ns
- 130.927µs
+ 386.662µs
 took %d ns
- 172.064µs
+ 441.14µs
 took %d ns
- 145.544µs
+ 367.167µs
 took %d ns
- 189.487µs
+ 398.333µs
 took %d ns
- 259.689µs
+ 431.704µs
 took %d ns
- 226.737µs
+ 380.29µs
 took %d ns
- 127.55µs
+ 405.025µs
 took %d ns
- 127.781µs
+ 356.197µs
 took %d ns
- 178.046µs
+ 376.473µs
 took %d ns
- 146.736µs
+ 175.899µs
 took %d ns
- 266.351µs
+ 467.839µs
 took %d ns
- 195.869µs
+ 381.913µs
 took %d ns
- 131.768µs
+ 168.356µs
 took %d ns
- 174.728µs
+ 169.187µs
 took %d ns
- 230.104µs
+ 483.077µs
 took %d ns
- 124.714µs
+ 458.372µs
 took %d ns
- 217.229µs
+ 468.681µs
 took %d ns
- 154.852µs
+ 489.028µs
 took %d ns
- 515.761µs
+ 452.521µs
 took %d ns
- 186.712µs
+ 484.218µs
 took %d ns
- 251.103µs
+ 377.535µs
 took %d ns
- 221.316µs
+ 375.492µs
 took %d ns
- 333.949µs
+ 238.673µs
 took %d ns
- 183.706µs
+ 198.12µs
 took %d ns
- 144.132µs
+ 384.808µs
 took %d ns
- 156.384µs
+ 395.558µs
 took %d ns
- 135.234µs
+ 283.083µs
 took %d ns
- 223.141µs
+ 192.77µs
 took %d ns
- 119.635µs
+ 162.595µs
 took %d ns
- 279.186µs
+ 182.021µs
 took %d ns
- 223.22µs
+ 335.569µs
 took %d ns
- 130.656µs
+ 382.655µs
 took %d ns
- 145.244µs
+ 192.84µs
 took %d ns
- 169.379µs
+ 230.97µs
 took %d ns
- 311.146µs
+ 167.304µs
 took %d ns
- 216.016µs
+ 281.431µs
 took %d ns
- 239.711µs
+ 395.819µs
 took %d ns
- 194.717µs
+ 376.834µs
 took %d ns
- 159.2µs
+ 381.572µs
 took %d ns
- 129.374µs
+ 397.903µs
 took %d ns
- 143.47µs
+ 356.537µs
 took %d ns
- 104.637µs
+ 339.717µs
 took %d ns
- 137.489µs
+ 491.081µs
 took %d ns
- 186.351µs
+ 358.601µs
 took %d ns
- 129.353µs
+ 399.906µs
 took %d ns
- 96.732µs
+ 355.886µs
 took %d ns
- 330.993µs
+ 310.384µs
 took %d ns
- 200.928µs
+ 409.143µs
 took %d ns
- 241.214µs
+ 619.815µs
 took %d ns
- 169.669µs
+ 409.684µs
 took %d ns
- 169.179µs
+ 320.131µs
 took %d ns
- 144.642µs
+ 314.361µs
 took %d ns
- 162.976µs
+ 537.275µs
 took %d ns
- 151.675µs
+ 247.048µs
 took %d ns
- 159.481µs
+ 377.796µs
 took %d ns
- 138.711µs
+ 198.48µs
 took %d ns
- 98.596µs
+ 160.031µs
 took %d ns
- 202.932µs
+ 379.559µs
 took %d ns
- 229.503µs
+ 557.432µs
 took %d ns
- 176.633µs
+ 402.07µs
 took %d ns
- 225.244µs
+ 378.918µs
 took %d ns
- 179.638µs
+ 427.305µs
 took %d ns
- 132.339µs
+ 424.441µs
 took %d ns
- 156.254µs
+ 410.655µs
 took %d ns
- 197.372µs
+ 594.65µs
 took %d ns
- 350.77µs
+ 230.799µs
 took %d ns
- 227.208µs
+ 600.731µs
 took %d ns
- 191.301µs
+ 259.942µs
 took %d ns
- 188.214µs
+ 436.222µs
 took %d ns
- 129.815µs
+ 216.644µs
 took %d ns
- 183.445µs
+ 202.808µs
 took %d ns
- 154.431µs
+ 160.161µs
 took %d ns
- 160.622µs
+ 389.768µs
 took %d ns
- 125.256µs
+ 446.481µs
 took %d ns
- 199.696µs
+ 588.389µs
 took %d ns
- 156.044µs
+ 284.296µs
 took %d ns
- 200.067µs
+ 600.4µs
 took %d ns
- 312.288µs
+ 409.583µs
 took %d ns
- 183.445µs
+ 602.965µs
 took %d ns
- 118.473µs
+ 246.618µs
 took %d ns
- 278.665µs
+ 624.503µs
 took %d ns
- 134.123µs
+ 230.188µs
 took %d ns
- 414.74µs
+ 449.886µs
 took %d ns
- 140.274µs
+ 333.315µs
 took %d ns
- 234.962µs
+ 224.457µs
 took %d ns
- 345.41µs
+ 216.273µs
 took %d ns
- 277.632µs
+ 168.165µs
 took %d ns
- 391.066µs
+ 285.207µs
 took %d ns
- 228.891µs
+ 176.821µs
 took %d ns
- 336.954µs
+ 384.137µs
 took %d ns
- 299.273µs
+ 389.848µs
 took %d ns
- 192.813µs
+ 414.312µs
 took %d ns
- 190.068µs
+ 359.603µs
 took %d ns
- 222.178µs
+ 383.917µs
 took %d ns
- 364.496µs
+ 423.138µs
 took %d ns
- 239.922µs
+ 470.263µs
 took %d ns
- 212.801µs
+ 217.585µs
 took %d ns
- 172.275µs
+ 261.746µs
 took %d ns
- 294.344µs
+ 398.734µs
 took %d ns
- 208.753µs
+ 391.09µs
 took %d ns
- 292.21µs
+ 222.494µs
 took %d ns
- 152.357µs
+ 479.331µs
 took %d ns
- 307.709µs
+ 455.928µs
 took %d ns
- 133.551µs
+ 473.31µs
 took %d ns
- 104.677µs
+ 336.942µs
 took %d ns
- 259.859µs
+ 383.085µs
 took %d ns
- 169.299µs
+ 356.878µs
 took %d ns
- 188.024µs
+ 181.91µs
 took %d ns
- 150.243µs
+ 504.657µs
 took %d ns
- 312.588µs
+ 453.654µs
 took %d ns
- 146.235µs
+ 218.607µs
 took %d ns
- 166.593µs
+ 486.974µs
 took %d ns
- 209.875µs
+ 400.728µs
 took %d ns
- 153.88µs
+ 194.302µs
 took %d ns
- 311.356µs
+ 174.738µs
 took %d ns
- 238.799µs
+ 495.901µs
 took %d ns
- 261.191µs
+ 386.952µs
 took %d ns
- 145.253µs
+ 367.627µs
 took %d ns
- 200.828µs
+ 516.678µs
 took %d ns
- 166.744µs
+ 441.652µs
 took %d ns
- 195.087µs
+ 478.609µs
 took %d ns
- 141.727µs
+ 514.224µs
 took %d ns
- 158.999µs
+ 262.036µs
 took %d ns
- 127.941µs
+ 327.895µs
 took %d ns
- 142.558µs
+ 173.275µs
 took %d ns
- 174.057µs
+ 404.004µs
 took %d ns
- 179.007µs
+ 393.625µs
 took %d ns
- 327.246µs
+ 411.027µs
 took %d ns
- 332.837µs
+ 487.154µs
 took %d ns
- 295.887µs
+ 502.082µs
 took %d ns
- 298.722µs
+ 585.774µs
 took %d ns
- 158.539µs
+ 179.386µs
 took %d ns
- 329.371µs
+ 178.034µs
 took %d ns
- 194.196µs
+ 214.189µs
 took %d ns
- 152.086µs
+ 169.007µs
 took %d ns
- 171.513µs
+ 344.245µs
 took %d ns
- 183.055µs
+ 401.65µs
 took %d ns
- 232.888µs
+ 361.957µs
 took %d ns
- 283.053µs
+ 469.392µs
 took %d ns
- 237.547µs
+ 468.01µs
 took %d ns
- 220.325µs
+ 400.768µs
 took %d ns
- 156.244µs
+ 638.93µs
 took %d ns
- 202.942µs
+ 606.862µs
 took %d ns
- 190.93µs
+ 390.71µs
 took %d ns
- 476.537µs
+ 419.482µs
 took %d ns
- 401.686µs
+ 374.77µs
 took %d ns
- 259.899µs
+ 255.304µs
 took %d ns
- 156.254µs
+ 233.675µs
 took %d ns
- 205.146µs
+ 205.624µs
 took %d ns
- 131.728µs
+ 221.242µs
+took %d ns
+ 647.496µs
+took %d ns
+ 425.383µs
+took %d ns
+ 379.659µs
+took %d ns
+ 215.501µs
+took %d ns
+ 257.397µs
+took %d ns
+ 195.014µs
+took %d ns
+ 381.643µs
+took %d ns
+ 429.721µs
+took %d ns
+ 436.944µs
+took %d ns
+ 233.404µs
+took %d ns
+ 201.636µs
+took %d ns
+ 226.882µs
+took %d ns
+ 179.777µs
+took %d ns
+ 405.837µs
+took %d ns
+ 357.149µs
+took %d ns
+ 563.103µs
+took %d ns
+ 643.639µs
+took %d ns
+ 233.955µs
+took %d ns
+ 167.254µs
+took %d ns
+ 587.898µs
+took %d ns
+ 179.716µs
+took %d ns
+ 228.806µs
+took %d ns
+ 367.438µs
+took %d ns
+ 234.346µs
+took %d ns
+ 196.406µs
+took %d ns
+ 345.358µs
+took %d ns
+ 375.112µs
+took %d ns
+ 400.227µs
+took %d ns
+ 357.82µs
+took %d ns
+ 459.815µs
+took %d ns
+ 382.806µs
+took %d ns
+ 478.72µs
+took %d ns
+ 685.165µs
+took %d ns
+ 538.318µs
+took %d ns
+ 463.562µs
+took %d ns
+ 237.892µs
+took %d ns
+ 166.864µs
+took %d ns
+ 215.021µs
+took %d ns
+ 235.077µs
+took %d ns
+ 450.308µs
+took %d ns
+ 180.068µs
+took %d ns
+ 327.134µs
+took %d ns
+ 181.39µs
+took %d ns
+ 205.413µs
+took %d ns
+ 258.34µs
+took %d ns
+ 196.436µs
+took %d ns
+ 181.039µs
+took %d ns
+ 217.134µs
+took %d ns
+ 199.132µs
+took %d ns
+ 162.075µs
+took %d ns
+ 179.777µs
+took %d ns
+ 402.992µs
+took %d ns
+ 475.294µs
+took %d ns
+ 495.28µs
+took %d ns
+ 477.337µs
+took %d ns
+ 226.853µs
+took %d ns
+ 177.743µs
+took %d ns
+ 390.279µs
+took %d ns
+ 177.493µs
+took %d ns
+ 452.302µs
+took %d ns
+ 402.912µs
+took %d ns
+ 456.64µs
+took %d ns
+ 221.322µs
+took %d ns
+ 618.503µs
+took %d ns
+ 463.463µs
+took %d ns
+ 456.469µs
+took %d ns
+ 635.945µs
+took %d ns
+ 380.04µs
+took %d ns
+ 580.705µs
+took %d ns
+ 557.183µs
+took %d ns
+ 523.661µs
+took %d ns
+ 367.297µs
+took %d ns
+ 319.34µs
+took %d ns
+ 505.278µs
+took %d ns
+ 368.048µs
+took %d ns
+ 491.163µs
+took %d ns
+ 494.569µs
+took %d ns
+ 423.71µs
+took %d ns
+ 398.394µs
+took %d ns
+ 383.677µs
+took %d ns
+ 374.37µs
+took %d ns
+ 354.344µs
+took %d ns
+ 472.879µs
+took %d ns
+ 556.912µs
+took %d ns
+ 420.915µs
+took %d ns
+ 457.822µs
+took %d ns
+ 432.275µs
+took %d ns
+ 358.612µs
+took %d ns
+ 560.659µs
+took %d ns
+ 380.852µs
+took %d ns
+ 431.845µs
+took %d ns
+ 363µs
+took %d ns
+ 396.751µs
+took %d ns
+ 384.349µs
+took %d ns
+ 201.436µs
+took %d ns
+ 218.918µs
+took %d ns
+ 505.829µs
+took %d ns
+ 459.505µs
+took %d ns
+ 443.867µs
+took %d ns
+ 214.089µs
+took %d ns
+ 473.741µs
+took %d ns
+ 279.207µs
+took %d ns
+ 431.414µs
+took %d ns
+ 320.392µs
+took %d ns
+ 503.385µs
+took %d ns
+ 180.908µs
+took %d ns
+ 378.127µs
+took %d ns
+ 208.368µs
+took %d ns
+ 450.048µs
+took %d ns
+ 395.79µs
+took %d ns
+ 406.539µs
+took %d ns
+ 352.44µs
+took %d ns
+ 382.105µs
+took %d ns
+ 214.27µs
+took %d ns
+ 393.055µs
+took %d ns
+ 522.119µs
+took %d ns
+ 345.057µs
+took %d ns
+ 213.558µs
+took %d ns
+ 451.04µs
+took %d ns
+ 399.136µs
+took %d ns
+ 378.378µs
+took %d ns
+ 340.589µs
+took %d ns
+ 459.526µs
+took %d ns
+ 377.325µs
+took %d ns
+ 232.523µs
+took %d ns
+ 586.896µs
+took %d ns
+ 185.367µs
+took %d ns
+ 220.561µs
+took %d ns
+ 161.374µs
+took %d ns
+ 198.631µs
+took %d ns
+ 414.513µs
+took %d ns
+ 442.455µs
+took %d ns
+ 430.202µs
+took %d ns
+ 235.648µs
+took %d ns
+ 627.11µs
+took %d ns
+ 484.411µs
+took %d ns
+ 383.978µs
+took %d ns
+ 294.435µs
+took %d ns
+ 270.061µs
+took %d ns
+ 206.195µs
+took %d ns
+ 196.828µs
+took %d ns
+ 247.951µs
+took %d ns
+ 239.184µs
+took %d ns
+ 202.669µs
+took %d ns
+ 295.487µs
+took %d ns
+ 211.124µs
+took %d ns
+ 216.644µs
+took %d ns
+ 268.117µs
+took %d ns
+ 655.912µs
+took %d ns
+ 582.579µs
+took %d ns
+ 341.471µs
+took %d ns
+ 531.557µs
+took %d ns
+ 523.813µs
+took %d ns
+ 464.845µs
+took %d ns
+ 506.201µs
+took %d ns
+ 425.043µs
+took %d ns
+ 509.036µs
+took %d ns
+ 286.701µs
+took %d ns
+ 273.437µs
+took %d ns
+ 254.353µs
+took %d ns
+ 203.66µs
+took %d ns
+ 572.811µs
+took %d ns
+ 537.798µs
+took %d ns
+ 279.879µs
+took %d ns
+ 434.63µs
+took %d ns
+ 494.979µs
+took %d ns
+ 450.519µs
+took %d ns
+ 234.306µs
+took %d ns
+ 531.446µs
+took %d ns
+ 197.149µs
+took %d ns
+ 210.522µs
